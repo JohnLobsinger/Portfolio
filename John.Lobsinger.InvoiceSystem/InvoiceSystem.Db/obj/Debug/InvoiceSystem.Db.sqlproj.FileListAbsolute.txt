@@ -1,0 +1,6 @@
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\bin\Debug\InvoiceSystem.Db.dacpac
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\bin\Debug\InvoiceSystem.Db.dll
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\bin\Debug\InvoiceSystem.Db.pdb
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\obj\Debug\InvoiceSystem.Db.sqlproj.AssemblyReference.cache
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\obj\Debug\InvoiceSystem.Db.dll
+C:\Users\Jeanne\source\repos\John.Lobsinger.InvoiceSystem\InvoiceSystem.Db\obj\Debug\InvoiceSystem.Db.pdb
